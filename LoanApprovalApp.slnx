@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="LoanApprovalApp.Data/LoanApprovalApp.Data.csproj" />
+  <Project Path="LoanApprovalApp.Domain/LoanApprovalApp.Domain.csproj" />
+  <Project Path="LoanApprovalApp.UI/LoanApprovalApp.UI.csproj" />
+</Solution>
